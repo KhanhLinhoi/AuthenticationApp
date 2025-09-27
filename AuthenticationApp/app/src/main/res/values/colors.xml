@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Primary Colors -->
-    <color name="primary_blue">#4A90E2</color>
-    <color name="primary_blue_dark">#357ABD</color>
-    <color name="primary_blue_light">#E3F2FD</color>
+    <color name="primary_blue">#667EEA</color>
+    <color name="primary_blue_dark">#5A67D8</color>
+    <color name="primary_blue_light">#EDF2F7</color>
 
     <!-- Secondary Colors -->
     <color name="accent_green">#4CAF50</color>
