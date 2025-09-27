@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AuthenticationApp</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_subtitle">Please login or create an account to continue</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="app_logo">App Logo</string>
 </resources>
